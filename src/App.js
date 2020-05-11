@@ -1,13 +1,13 @@
-import React from 'react';
-import MathGame from './MathGame';
-import './App.css';
+import React from "react";
+import MathGame from "./MathGame2";
+import "./App.css";
 
 function App() {
-  return (
-    <div className="App">
-      <MathGame></MathGame>
-    </div>
-  );
+    return (
+        <div className="App">
+            <MathGame></MathGame>
+        </div>
+    );
 }
 
 export default App;
